@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:14.03.2026
+## Reference Number:25005800
+## Name:Ramesh Jaisurya 
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
